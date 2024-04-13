@@ -1,0 +1,11 @@
+C:\Users\mhymw\source\repos\PIzzaProject\bin\Debug\PIzzaProject.exe.config
+C:\Users\mhymw\source\repos\PIzzaProject\bin\Debug\PIzzaProject.exe
+C:\Users\mhymw\source\repos\PIzzaProject\bin\Debug\PIzzaProject.pdb
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.csproj.AssemblyReference.cache
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.PizzaWindow.resources
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.Properties.Resources.resources
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.csproj.GenerateResource.cache
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.csproj.CoreCompileInputs.cache
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.exe
+C:\Users\mhymw\source\repos\PIzzaProject\obj\Debug\PIzzaProject.pdb
